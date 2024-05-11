@@ -1,0 +1,1 @@
+to check which file is in the staging area you use- git status

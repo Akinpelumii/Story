@@ -1,0 +1,1 @@
+to be able track files in your working directory you must move them to the staging area
